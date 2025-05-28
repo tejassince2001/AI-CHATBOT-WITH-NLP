@@ -39,14 +39,14 @@ Despite its simplicity, this chatbot has multiple potential use cases:
 4.	Productivity and Reminder Tools: By integrating additional functionalities such as reminders, to-do lists, or calendars, this bot could serve as a personal assistant.
 5.	Chat Companions: Lightweight and responsive chatbots can serve as companions, particularly for elderly users or those seeking light conversation.
 
-
-
-Output:
-
-![Image](https://github.com/user-attachments/assets/26d3c4ed-b3c3-48b1-b05f-c9872cdfa22d)
 Possible Enhancements
 •	Machine Learning Integration: Replace regex-based intent recognition with a trained ML model for more flexible conversations.
 •	API Connectivity: Connect to weather, news, or search APIs to make responses more dynamic and informative.
 •	Memory/Context Handling: Enable the chatbot to remember past interactions or user preferences using local storage or a database.
 •	GUI/Web Interface: Deploy the chatbot as a desktop or web app using frameworks like Flask, Streamlit, or Tkinter for better accessibility.
 
+Output:
+
+Output:
+
+![Image](https://github.com/user-attachments/assets/26d3c4ed-b3c3-48b1-b05f-c9872cdfa22d)
